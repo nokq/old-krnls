@@ -1,0 +1,1 @@
+print("Krnl chan is so cute... my god.... What am i doing...")
